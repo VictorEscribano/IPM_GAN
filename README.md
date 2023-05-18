@@ -16,4 +16,4 @@ To complete the calibration you have to select 4 points on the source image and 
 
 Look at the following tutorial video if you have some doubts:
 
-https://github.com/VictorEscribano/IPM_GAN/blob/main/calibration_tutorial.mp4
+[![Alt text](https://img.youtube.com/vi/ZAhMQnSIkVU/0.jpg)](https://www.youtube.com/watch?v=ZAhMQnSIkVU)
