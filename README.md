@@ -16,4 +16,4 @@ To complete the calibration you have to select 4 points on the source image and 
 
 Look at the following tutorial video if you have some doubts:
 
-[![Alt text](https://img.youtube.com/vi/ZAhMQnSIkVU/0.jpg)](https://www.youtube.com/watch?v=ZAhMQnSIkVU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZAhMQnSIkVU/0.jpg)](https://www.youtube.com/watch?v=ZAhMQnSIkVU)
