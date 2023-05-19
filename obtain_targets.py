@@ -4,12 +4,22 @@ import matplotlib.pyplot as plt
 import yaml 
 import os
 
+##############################################################################################
+# This obtains the target images from the input images already filtered with rmv_repeated.py #
+'''
+Input
+    - input_folder
+    - homography_calib.yaml -> Here is the calibration matrix obtained with calibrator.py
+Ouptut:
+    - output_folder
+'''
+##############################################################################################
 
 TARGET_H, TARGET_W = 500, 500
 M = np.array([[1, 0, 0], [0, 1, 0], [0, 0, 1]])
 
-input_folder = 'Dataset/all_input'
-output_folder = 'Dataset/all_target'
+input_folder = r'Dataset\all_input'
+output_folder = r'Dataset\all_input'
 
 
 def load_yalm(file):
