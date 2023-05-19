@@ -12,10 +12,29 @@ import matplotlib.pyplot as plt
 from regex import P
 import yaml 
 
+##############################################################################################
+# This code obtains the calibration matrix for IPM through a interactive calibration process #
+'''
+Input
+    - camera_img -> Example image to calibrate
+    - target_image -> Generic template image of the top view
+Ouptut:
+    - homography_calib.yaml
+
+
+Usage:
+    - 4 left clicks on the camera image window
+    - 4 left clicks on the corresponding top view template 
+    - In case of missclick, press right mouse button to erease last selection
+    - To save the matrix make a 5th click on the template target image
+'''
+##############################################################################################
+
+
 TARGET_H, TARGET_W = 500, 500
-camera_img = cv2.imread('Dataset/data1/data1_65.jpg')
+camera_img = cv2.imread(r'Dataset\all_input\data1_65.jpg')
 camera_img = cv2.cvtColor(camera_img, cv2.COLOR_BGR2RGB)
-target_image = cv2.imread('template.png')
+target_image = cv2.imread(r'IPM_GAN\template.png')
 target_image = cv2.resize(target_image, (TARGET_W, TARGET_H))
 
 
