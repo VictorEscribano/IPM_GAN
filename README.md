@@ -17,3 +17,14 @@ To complete the calibration you have to select 4 points on the source image and 
 Look at the following tutorial video if you have some doubts:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FLBrwnHSxnk/0.jpg)](https://www.youtube.com/watch?v=FLBrwnHSxnk)
+
+Before obtaining the target images of the dataset the raw images need to be filtered, for that consecutive frame images are removed to avoid repeated images on the dataset. To filter the images run:
+
+`python rmv_repeated.py`
+
+Now that the raw images are filtered and the calibration matrix is obtained we can complete the dataset by computing the corresponding target images running:
+
+`python obtain_targets.py`
+
+# Train the model
+Now that the dataset is selected it can be called from the colab notebook.
