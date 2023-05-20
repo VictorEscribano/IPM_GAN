@@ -19,7 +19,7 @@ TARGET_H, TARGET_W = 500, 500
 M = np.array([[1, 0, 0], [0, 1, 0], [0, 0, 1]])
 
 input_folder = r'Dataset\all_input'
-output_folder = r'Dataset\all_input'
+output_folder = r'Dataset\all_target'
 
 
 def load_yalm(file):
@@ -58,10 +58,10 @@ for image_file in os.listdir(input_folder):
 
 
 
-image = cv2.cvtColor(cv2.imread('Dataset/data5/data5_0.jpg'), cv2.COLOR_BGR2RGB)
-warped2 = ipm_from_opencv(image)
-#show cv2
-cv2.imshow('warped2',warped2)
-cv2.imshow('image',image)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+# image = cv2.cvtColor(cv2.imread('Dataset/data5/data5_0.jpg'), cv2.COLOR_BGR2RGB)
+# warped2 = ipm_from_opencv(image)
+# #show cv2
+# cv2.imshow('warped2',warped2)
+# cv2.imshow('image',image)
+# cv2.waitKey(0)
+# cv2.destroyAllWindows()
