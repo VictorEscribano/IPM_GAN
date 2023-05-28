@@ -1,5 +1,5 @@
 # IPM_GAN
-Generation of top view map form front camera view using Generative Adversial Networks.
+Generation of top view map from front camera view using Generative Adversial Networks.
 
 
 # Dataset extration
