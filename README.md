@@ -33,7 +33,6 @@ Now that the dataset is selected it can be called from the colab notebook.
 
 ![test_5](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/67f048e4-533a-4e70-aacd-857290aeba36)
 ![test_4](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/d6f12cd2-86e1-4cfd-b920-2625ec618413)
-![test_5](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/29d3dbbf-2d79-422d-aaf7-c9423241fb86)
 ![test_7](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/52444786-1bbe-4914-8945-7f482a23308d)
 ![test_9](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/7ff2d68b-7447-4cc1-8fee-6bee2953024c)
 ![test_0](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/c522b945-651c-4c19-8ede-5589bd96a898)
