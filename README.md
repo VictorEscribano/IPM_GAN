@@ -28,6 +28,10 @@ Now that the raw images are filtered and the calibration matrix is obtained we c
 
 # Train the model
 Now that the dataset is selected it can be called from the colab notebook.
+![generator_loss_plot](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/c823d43d-ca3e-40e9-bdd1-a841f087cfcf)
+![generator_GAN_loss_plot](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/65979ad5-4ab0-4104-8e8b-9a346e3f5a5f)
+
+![discriminator_accuracies](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/7b49559d-9f8b-43cc-b079-a4f41f4a99a1)
 
 # Results
 
