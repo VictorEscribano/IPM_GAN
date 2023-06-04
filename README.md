@@ -16,6 +16,10 @@ To complete the calibration you have to select 4 points on the source image and 
 
 Look at the following tutorial video if you have some doubts:
 
+
+https://github.com/VictorEscribano/IPM_GAN/assets/70441479/b1b73f19-df74-4a0a-9c03-8409d207b26c
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FLBrwnHSxnk/0.jpg)](https://www.youtube.com/watch?v=FLBrwnHSxnk)
 
 Before obtaining the target images of the dataset the raw images need to be filtered, for that consecutive frame images are removed to avoid repeated images on the dataset. To filter the images run:
