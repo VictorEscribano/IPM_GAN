@@ -1,6 +1,6 @@
 # IPM_GAN
 Generation of top view map from front camera view using Generative Adversial Networks.
-![video_results_copped](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/a1114fa9-8f5d-40cc-a8a1-482c1f32af2b)
+![video_results](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/0d453868-30b0-432b-8f92-36941246c761)
 
 
 # Dataset extration
