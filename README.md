@@ -21,7 +21,7 @@ Look at the following tutorial video if you have some doubts:
 https://github.com/VictorEscribano/IPM_GAN/assets/70441479/286031fb-61b2-4c86-ad14-be3c0abf6e22
 
 
-(YT vidoeo can be found on: https://img.youtube.com/vi/FLBrwnHSxnk/0.jpg.)
+(YT video can be found on: https://img.youtube.com/vi/FLBrwnHSxnk/0.jpg.)
 
 Before obtaining the target images of the dataset the raw images need to be filtered, for that consecutive frame images are removed to avoid repeated images on the dataset. To filter the images run:
 
