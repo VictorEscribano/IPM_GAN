@@ -1,5 +1,5 @@
 # IPM_GAN
-Generation of top view map from front camera view using Generative Adversial Networks.
+Generation of top view map (Inverse Perspecive Mapping) from front camera view using Generative Adversial Networks.
 ![video_results](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/0d453868-30b0-432b-8f92-36941246c761)
 
 
