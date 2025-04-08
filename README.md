@@ -52,8 +52,15 @@ Now that the dataset is selected it can be called from the colab notebook.
 # Citation
 
 If you use this work in your research, please cite it as follows:
-@misc{escribano2023ipmgan, author = {Víctor Escribano García}, title = {IPM_GAN: Generation of top view map from front camera view using GANs}, year = {2023}, publisher = {GitHub}, journal = {GitHub repository}, howpublished = {\url{https://github.com/VictorEscribano/IPM_GAN}}, note = {ORCID: https://orcid.org/0009-0006-1058-6393} }
-
+@misc{escribano2023ipmgan,
+author = {Víctor Escribano García},
+title = {IPM_GAN: Generation of top view map from front camera view using GANs},
+year = {2023},
+publisher = {GitHub},
+journal = {GitHub repository},
+howpublished = {\url{https://github.com/VictorEscribano/IPM_GAN}},
+note = {ORCID: https://orcid.org/0009-0006-1058-6393}
+}
 
 Alternatively, you can cite the author directly using the ORCID:  
 **Víctor Escribano García – [https://orcid.org/0009-0006-1058-6393](https://orcid.org/0009-0006-1058-6393)**
