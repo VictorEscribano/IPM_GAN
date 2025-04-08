@@ -63,7 +63,7 @@ If you use this work in your research, please cite it as follows:
   howpublished = {\url{https://github.com/VictorEscribano/IPM_GAN}},
   note = {
     ORCID Víctor: https://orcid.org/0009-0006-1058-6393,
-    ORCID Alejandro: ...,
+    ORCID Alejandro: 0009-0000-9956-5906,
     ORCID Oriol: ...
   }
 }
