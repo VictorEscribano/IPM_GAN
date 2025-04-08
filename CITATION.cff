@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Inverse Perspective Mapping generation on road vehicle images using Generative Adversial Networks"
+authors:
+  - family-names: Escribano García
+    given-names: Víctor
+    orcid: https://orcid.org/0009-0006-1058-6393
+  - family-names: Acosta Montilla
+    given-names: Alejandro
+    orcid: "..."
+  - family-names: Contreras Pérez
+    given-names: Oriol
+    orcid: "..."
+date-released: 2023-01-01
+version: "1.0"
+repository-code: https://github.com/VictorEscribano/IPM_GAN
+license: MIT
