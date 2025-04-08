@@ -64,7 +64,7 @@ If you use this work in your research, please cite it as follows:
   note = {
     ORCID Víctor: https://orcid.org/0009-0006-1058-6393,
     ORCID Alejandro: 0009-0000-9956-5906,
-    ORCID Oriol: ...
+    ORCID Oriol: 0009-0001-9970-5427
   }
 }
 
