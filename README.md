@@ -48,3 +48,13 @@ Now that the dataset is selected it can be called from the colab notebook.
 ![test_0](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/c522b945-651c-4c19-8ede-5589bd96a898)
 ![test_1](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/1f21dffb-0ace-4be6-abb6-16713a788e48)
 ![test_2](https://github.com/VictorEscribano/IPM_GAN/assets/70441479/516e550e-07f2-4929-96d9-36e24f87b048)
+
+# Citation
+
+If you use this work in your research, please cite it as follows:
+@misc{escribano2023ipmgan, author = {Víctor Escribano García}, title = {IPM_GAN: Generation of top view map from front camera view using GANs}, year = {2023}, publisher = {GitHub}, journal = {GitHub repository}, howpublished = {\url{https://github.com/VictorEscribano/IPM_GAN}}, note = {ORCID: https://orcid.org/0009-0006-1058-6393} }
+
+
+Alternatively, you can cite the author directly using the ORCID:  
+**Víctor Escribano García – [https://orcid.org/0009-0006-1058-6393](https://orcid.org/0009-0006-1058-6393)**
+
